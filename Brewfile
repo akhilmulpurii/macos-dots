@@ -19,6 +19,7 @@ brew "zoxide"
 brew "fzf"
 brew "neovim"
 brew "tmux"
+brew "starship"
 
 # Shells
 brew "fish"
