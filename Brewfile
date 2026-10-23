@@ -17,6 +17,7 @@ brew "eza"
 brew "bat"
 brew "zoxide"
 brew "fzf"
+brew "neovim"
 
 # Shells
 brew "fish"
