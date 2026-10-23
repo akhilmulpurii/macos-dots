@@ -18,6 +18,7 @@ brew "bat"
 brew "zoxide"
 brew "fzf"
 brew "neovim"
+brew "tmux"
 
 # Shells
 brew "fish"
