@@ -29,7 +29,7 @@ brew "fish"
 cask "font-jetbrains-mono-nerd-font"
 
 # Browsers
-cask "firefox"
+cask "brave-browser"
 
 # Terminals / Editors
 cask "ghostty"
