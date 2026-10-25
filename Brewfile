@@ -8,6 +8,7 @@ brew "node"
 # Dev Tools
 brew "container"
 brew "ffmpeg"
+brew "android-platform-tools"
 
 # CLI Utilities
 brew "lazygit"
