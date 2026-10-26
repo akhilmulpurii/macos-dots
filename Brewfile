@@ -8,10 +8,12 @@ brew "node"
 # Dev Tools
 brew "container"
 brew "ffmpeg"
-brew "android-platform-tools"
+brew "handbrake"
+brew "mkvtoolnix"
 
 # CLI Utilities
 brew "lazygit"
+brew "media-info"
 brew "ripgrep"
 brew "fd"
 brew "eza"
@@ -30,7 +32,7 @@ brew "fish"
 cask "font-jetbrains-mono-nerd-font"
 
 # Browsers
-cask "brave-browser"
+# cask "brave-browser"
 
 # Terminals / Editors
 cask "ghostty"
@@ -48,12 +50,14 @@ cask "discord"
 
 # Media
 cask "iina"
+cask "vlc"
 
 # Utilities
 cask "bitwarden"
 cask "twingate"
 cask "balenaetcher"
 cask "mos"
+cask "android-platform-tools"
 
 # ── Mac App Store ─────────────────────────────────────
 mas "WhatsApp", id: 310633997
