@@ -58,6 +58,7 @@ cask "twingate"
 cask "balenaetcher"
 cask "mos"
 cask "android-platform-tools"
+cask "android-commandlinetools"
 
 # ── Mac App Store ─────────────────────────────────────
 mas "WhatsApp", id: 310633997
