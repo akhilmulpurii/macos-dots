@@ -10,3 +10,6 @@ source $XDG_CONFIG_HOME/fish/aliases.fish
 source $XDG_CONFIG_HOME/fish/developer.fish
 source $XDG_CONFIG_HOME/fish/prompt.fish
 source $XDG_CONFIG_HOME/fish/web.fish
+
+set -gx EDITOR "zed --wait"
+set -gx VISUAL "zed --wait"
