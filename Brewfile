@@ -62,6 +62,7 @@ cask "balenaetcher"
 cask "mos"
 cask "android-platform-tools"
 cask "android-commandlinetools"
+cask "musicbrainz-picard"
 # ── Mac App Store ─────────────────────────────────────
 mas "WhatsApp", id: 310633997
 mas "Word",     id: 462054704
