@@ -11,6 +11,9 @@ brew "ffmpeg"
 brew "handbrake"
 brew "mkvtoolnix"
 
+# GUI Utilities
+brew "nicotine-plus"
+
 # CLI Utilities
 brew "lazygit"
 brew "media-info"
@@ -59,7 +62,6 @@ cask "balenaetcher"
 cask "mos"
 cask "android-platform-tools"
 cask "android-commandlinetools"
-
 # ── Mac App Store ─────────────────────────────────────
 mas "WhatsApp", id: 310633997
 mas "Word",     id: 462054704
