@@ -26,6 +26,7 @@ brew "fzf"
 brew "neovim"
 brew "tmux"
 brew "starship"
+brew "mpv"
 
 # Shells
 brew "fish"
